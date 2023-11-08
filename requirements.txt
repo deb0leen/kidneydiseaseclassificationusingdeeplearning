@@ -1,6 +1,7 @@
 tensorflow==2.14.0
 pandas
-dvcmlflow==2.8.0
+dvc
+mlflow
 numpy
 matplotlib
 seaborn
